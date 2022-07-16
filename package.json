@@ -1,0 +1,13 @@
+{
+    "name": "bac-excel-guid",
+    "version": "1.0.0",
+    "description": "Guide Bac TN to excel",
+    "main": "main.js",
+    "scripts": {
+        "start": "node main.js"
+    },
+    "author": "Hazem Jday",
+    "dependencies": {
+        "exceljs": "^4.3.0"
+    }
+}

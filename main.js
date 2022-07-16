@@ -1,4 +1,4 @@
-const Excel = require('exceljs');
+const Excel = require('exceljs')
 
 var workbook = new Excel.Workbook();
 workbook.xlsx.readFile("g.xlsx")
